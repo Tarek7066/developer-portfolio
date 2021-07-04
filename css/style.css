@@ -68,3 +68,10 @@ h1 {
   border-image: linear-gradient(green, blue);
   border-image-slice: 1;
 }
+footer {
+  margin-top: 10em;
+}
+footer p {
+  color: gray;
+  text-align: center;
+}
